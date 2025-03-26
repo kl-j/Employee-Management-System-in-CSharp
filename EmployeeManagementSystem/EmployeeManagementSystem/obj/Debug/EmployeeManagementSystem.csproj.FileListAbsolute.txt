@@ -13,3 +13,18 @@ C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSyst
 C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Dashboard.resources
 C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Salary.resources
 C:\Users\WINDOWS 10\source\repos\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.AddEmployee.resources
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Dashboard.resources
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.MainForm.resources
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.RegisterForm.resources
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Salary.resources
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\projects\2025\sem6\Employee-Management-System-in-CSharp\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
